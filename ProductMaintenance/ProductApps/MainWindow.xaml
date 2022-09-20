@@ -18,6 +18,8 @@
         <TextBlock Name="totalChargeTextBox" HorizontalAlignment="Left" Height="23" Margin="164,190,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75"/>
         <Label Content="wrapping cost ($5) $:" HorizontalAlignment="Left" Height="30" Margin="10,206,0,0" VerticalAlignment="Top" Width="132" RenderTransformOrigin="0.48,1.595"/>
         <TextBlock Name="wrappingTextBox" HorizontalAlignment="Left" Height="23" Margin="164,213,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75"/>
+        <Label Content="gst cost 10% :" HorizontalAlignment="Left" Height="30" Margin="48,229,0,0" VerticalAlignment="Top" Width="132" RenderTransformOrigin="0.48,1.595"/>
+        <TextBlock Name="gstTextBox" HorizontalAlignment="Right" Height="23" Margin="0,229,278,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
